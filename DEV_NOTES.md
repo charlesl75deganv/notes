@@ -11,3 +11,6 @@ Personal development log — notes, findings, and ongoing work.
 - Updated .gitignore to exclude build artifacts
 - Reorganised test fixtures
 - Updated CI cache strategy
+
+## 2026-03-22
+- Bumped patch version
